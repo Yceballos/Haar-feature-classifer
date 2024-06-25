@@ -26,7 +26,7 @@ To use this notebook, follow these steps:
 
 Clone the repository:
 bash
-git clone https://github.com/your_username/Haar_example.git
+git clone https://github.com/Yceballos/Haar_example.git
 Navigate to the repository directory:
 bash
 
